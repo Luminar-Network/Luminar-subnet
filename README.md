@@ -87,7 +87,7 @@ graph TB
 | Location | 20% | Accurate location extraction |
 | Time Info | 20% | Proper time/date identification |
 | Entities | 15% | Quality of extracted entities |
-| Confidence | 25% | Informative event report |
+| Crime Report | 25% | Informative event report |
 
 ## Luminar Developer Roadmap
 
