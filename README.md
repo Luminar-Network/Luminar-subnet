@@ -83,12 +83,11 @@ graph TB
 
 | Component | Weight | Description |
 |-----------|--------|-------------|
-| Crime Type | 30% | Correct identification of crime category |
+| Crime Type | 20% | Correct identification of crime category |
 | Location | 20% | Accurate location extraction |
 | Time Info | 20% | Proper time/date identification |
 | Entities | 15% | Quality of extracted entities |
-| Confidence | 10% | Reasonable confidence calibration |
-| Summary | 5% | Informative event summaries |
+| Confidence | 25% | Informative event report |
 
 ## Luminar Developer Roadmap
 
